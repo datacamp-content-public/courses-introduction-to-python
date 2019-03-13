@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## Intro lecture 1
 
 ```yaml
 type: NormalExercise
@@ -14,7 +14,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+Print a linePrint a linePrint a linePrint a linePrint a linePrint a linePrint a linePrint a linePrint a linePrint a line
 
 `@instructions`
 
@@ -29,12 +29,12 @@ This is an example exercise.
 
 `@sample_code`
 ```{python}
-
+print("Something else")
 ```
 
 `@solution`
 ```{python}
-
+print("hello world")
 ```
 
 `@sct`
